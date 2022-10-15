@@ -1,4 +1,2 @@
 123456
 second
-third
-git好麻烦啊
